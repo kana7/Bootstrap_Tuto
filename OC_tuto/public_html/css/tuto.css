@@ -12,7 +12,7 @@ body{
     padding-top: 10px;
 }
 
-[class*="col-"], footer{
+[class*="col-"],aside, footer{
     background-color: lightgreen;
     border: 2px solid black;
     border-radius: 6px;
